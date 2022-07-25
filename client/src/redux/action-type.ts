@@ -1,0 +1,19 @@
+export enum ActionType {
+    deleteStadium,
+    likedStadiums,
+    getAllLikes,
+    register,
+    addUser,
+    GetAllStadiums,
+    AddNewStadium,
+    LoginUser,
+    AddLike,
+    RemoveLike,
+    UpdateLikes,
+    SortStadiums,
+    AddStadium,
+    EditStadium,
+    GetLikesStats,
+    Logout,
+    Login
+}

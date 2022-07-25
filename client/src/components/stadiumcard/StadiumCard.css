@@ -1,0 +1,25 @@
+#stadium-card{
+    border: 1px solid black;
+    color: black;
+    min-height: 150px;
+    width: 350px;
+    display: inline-block;
+    padding: 1%;
+    border-radius: 15%;
+    margin-top: 25px;
+    margin-right: 40px;
+}
+
+.destination{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.card-button{
+    position: absolute;
+}
+
+img{
+    width: 270px;
+    height: 200px;
+} 
